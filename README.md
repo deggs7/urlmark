@@ -1,4 +1,4 @@
 urlmark
 =======
 
-Generate url info form bookmark which imported from browser.
+Generate url info from bookmark which exported by browser.
